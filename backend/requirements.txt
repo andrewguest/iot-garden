@@ -7,7 +7,7 @@ h11==0.11.0
 httptools==0.1.1
 idna==2.10
 motor==2.3.0
-pydantic==1.7.2
+pydantic==1.8.1
 pymongo==3.11.0
 requests==2.25.0
 starlette==0.13.6
