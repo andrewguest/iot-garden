@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@fortawesome/vue-fontawesome": "^3.0.0-2",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "babel-eslint": "^10.1.0",
     "bulma": "^0.9.1",
     "core-js": "^3.6.5",
