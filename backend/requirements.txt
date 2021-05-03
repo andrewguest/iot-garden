@@ -10,7 +10,7 @@ motor==2.3.0
 pydantic==1.8.1
 pymongo==3.11.0
 requests==2.25.1
-starlette==0.13.6
+starlette==0.14.2
 urllib3==1.26.4
 uvicorn==0.12.2
 uvloop==0.14.0
