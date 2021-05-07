@@ -1294,7 +1294,7 @@
   dependencies:
     jest-diff "^24.3.0"
 
-"@types/json-schema@^7.0.3", "@types/json-schema@^7.0.4", "@types/json-schema@^7.0.5":
+"@types/json-schema@^7.0.3", "@types/json-schema@^7.0.4", "@types/json-schema@^7.0.5", "@types/json-schema@^7.0.6":
   version "7.0.6"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.6.tgz#f4c7ec43e81b319a9815115031709f26987891f0"
   integrity sha512-3c+yGKvVP5Y9TYBEibGNR+kLtijnj7mYrXRg+WpFb2X9xm04g/DXYkfg4hmzJQosc9snFNUPkbYIhu+KAm6jJw==
@@ -1859,10 +1859,10 @@
   optionalDependencies:
     prettier "^1.18.2"
 
-"@vue/eslint-config-typescript@5.1.0":
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/@vue/eslint-config-typescript/-/eslint-config-typescript-5.1.0.tgz#17eb1af64f63e231fcceca5603859bdfb4f5d4e0"
-  integrity sha512-wFAdPMWegKZOdbQBEWV4/KbOKuX/6Q5db3304kiWNBK+6P7+CoMrsbaKzJFjuAZF7fQR2fJtZT9ciGWVVT//vw==
+"@vue/eslint-config-typescript@7.0.0":
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/@vue/eslint-config-typescript/-/eslint-config-typescript-7.0.0.tgz#220c70c2edf7a253e739298525f4d401b8ef0038"
+  integrity sha512-UxUlvpSrFOoF8aQ+zX1leYiEBEm7CZmXYn/ZEM1zwSadUzpamx56RB4+Htdjisv1mX2tOjBegNUqH3kz2OL+Aw==
   dependencies:
     vue-eslint-parser "^7.0.0"
 
