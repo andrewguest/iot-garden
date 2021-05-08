@@ -1,0 +1,21 @@
+name: Run backend tests
+
+on:
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install Python modules
+        run: pip install -r requirements.txt
+        working-directory: ./backend
+
+      - name: Run tests
+        run: pytest -v
+        working-directory: ./backend
