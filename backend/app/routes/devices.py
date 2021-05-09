@@ -36,7 +36,7 @@ def add_new_device(device: deviceModel.DeviceModel):
             "ID": str(device.id),
             "Device name": device.name,
             "Device type": device.type,
-            "Device Description": device.description,
+            "Device description": device.description,
         },
     }
     # TODO: Add this information to MongoDB

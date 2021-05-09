@@ -8,4 +8,4 @@ client = TestClient(api)
 
 def test_system_update():
     response = client.get("/system/update")
-    assert response.status_code == 429
+    assert response.status_code == 200 or response.status_code == 304
