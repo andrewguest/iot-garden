@@ -1,4 +1,3 @@
-# pull official Alpine-based image
 FROM python:3.9.5-alpine
 
 # set work directory
