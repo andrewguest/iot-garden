@@ -16,7 +16,7 @@ pydantic==1.8.2
 pymongo==3.11.4
 pyparsing==2.4.7
 pytest==6.2.4
-requests==2.25.1
+requests==2.26.0
 starlette==0.16.0
 toml==0.10.2
 typing-extensions==3.10.0.0
